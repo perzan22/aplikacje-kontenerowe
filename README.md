@@ -11,5 +11,5 @@ Folder zawiera wykonany kurs o podstawach dockera. Jest to pierwsze zadanie potr
 
 ---
 
-Autor: Olaf Perzanowski
+Autor: Olaf Perzanowski  
 Grupa: 215IC B2
