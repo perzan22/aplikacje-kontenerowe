@@ -4,7 +4,7 @@ Repozytorium zawiera zadanie potrzebne do zaliczenia przedmiotu Aplikacje konten
 
 ---
 
-## [01-docker-for-begginers](01-docker-for-beginners)
+## [01-docker-for-begginers](01-docker-for-begginers)
 
 Folder zawiera wykonany kurs o podstawach dockera. Jest to pierwsze zadanie potrzebne do zaliczenia przedmiotu.
 
