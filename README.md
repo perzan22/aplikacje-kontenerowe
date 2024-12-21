@@ -8,6 +8,11 @@ Repozytorium zawiera zadanie potrzebne do zaliczenia przedmiotu Aplikacje konten
 
 Folder zawiera wykonany kurs o podstawach dockera. Jest to pierwsze zadanie potrzebne do zaliczenia przedmiotu.
 
+---
+
+## [02-basic-docker-training](02-basic-docker-training)  
+
+Folder zawiera ćwiczenia z kursu basic docker training. Jest to drugie zadanie potrzebne do zaliczenia przedmiotu.
 
 ---
 
